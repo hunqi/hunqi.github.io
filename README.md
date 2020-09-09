@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Hunqi's GitHub Pages
+
+<b>How to work efficiently?</b>
 
 You can use the [editor on GitHub](https://github.com/hunqi/hunqi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
